@@ -1,0 +1,18 @@
+{
+    "id": 99297426,
+    "name": "Mulpan Challenge",
+    "author": "Demonbreaker13",
+    "creators": [],
+    "verifier": "Demonbreaker13",
+    "verification": "https://www.youtube.com/watch?v=kew37242A4Q&",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+      "records": [
+          {
+              "user": "Mulpan",
+              "link": "https://www.youtube.com/watch?v=kew37242A4Q&",
+              "percent": 100,
+              "hz": 240
+          }
+      ]
+  }
